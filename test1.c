@@ -17,4 +17,5 @@ int main(){
 	printf("ok\n");
 	printf("ok\n");
 	printf("ok\n");
+	printf("echo\n");
 }
